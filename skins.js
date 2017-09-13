@@ -116,7 +116,7 @@ skins = {
       {
         "file": "playerskins",
         "id": "Mischievous Imp",
-        "index": 88
+        "index": 89
       },
       {
         "file": "playerskins16",
